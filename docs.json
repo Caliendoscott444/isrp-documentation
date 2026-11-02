@@ -1,0 +1,28 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Iowa State Roleplay",
+  "theme": "mint",
+  "colors": {
+    "primary": "#D6A62E",
+    "light": "#F4D77A",
+    "dark": "#9B7418"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Welcome",
+        "pages": [
+          "index"
+        ]
+      },
+      {
+        "group": "Handbooks",
+        "pages": [
+          "community-handbook",
+          "punishment-guide",
+          "training-guide"
+        ]
+      }
+    ]
+  }
+}
